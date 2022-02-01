@@ -1,0 +1,47 @@
+body {
+    background-color:rgb(31, 26, 54)  ;
+}
+
+.card{
+
+    box-shadow: 2px 3px 15px 4px rgb(0 0 0 / 36%);
+
+
+    position: relative;
+    top: 7em;
+    background-color: #231E39;
+}
+
+a:hover {color: black;
+    
+    background-color: yellow;
+  }
+a {padding:2px 8px ;
+    transition-delay: 0.2s;
+    border-radius: 5px;
+    transition-timing-function: linear;
+
+    background-color:#02BFCB;
+    color: white;
+    text-decoration: none;
+    font-size: 10px;
+    margin: 0px 5px;
+
+}
+
+.card-body h6 { font-size: 1em;
+}
+
+
+.card-body p { font-size: 0.8em;
+}
+
+span{border-radius:2px;
+    border: 1px solid white;
+}
+.skills{
+    
+    font-size: 10px;
+margin: 3px;
+
+}
